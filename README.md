@@ -1,4 +1,4 @@
-# adrails-ai
+# Adrails
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-adrails-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://adrails.ai/
+Adrails provides AI-powered ad management for Shopify brands, enabling paid‑media teams and agencies to automate campaign creation, testing, spend monitoring, and performance explanation across Meta and Google ad accounts. Built and operated by TBSS Labs, LLC, the platform offers a remote MCP server and integrates with Shopify, Meta, and Google data sources.
+
+**Areas:** AI · Advertising · Marketing · Shopify · Paid Media
+
+## Adrails on APIs.io
+
+Everything profiled for Adrails is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adrails-ai/](https://apis.io/providers/adrails-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Adrails Tracking API](https://apis.io/apis/adrails-ai/adrails-tracking-api/) — First-party tracking for your own site and server. The script records visits and the campaign, ad and click id they arrived with; the collect endpoint…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Adrails Ai Agentic Access](https://apis.io/agentic-access/adrails-ai/adrails-ai-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Adrails Ai Openapi Overlay](https://apis.io/overlays/adrails-ai/adrails-ai-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Adrails API Rules](https://apis.io/rules/adrails-ai/adrails-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adrails Ai Domain Security](https://apis.io/security/adrails-ai/adrails-ai-domain-security/)
+- [Adrails Ai Vulnerability Disclosure](https://apis.io/security/adrails-ai/adrails-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Adrails Ai Plans Pricing](https://apis.io/plans/adrails-ai/adrails-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://adrails.ai/)
+- [Documentation](https://adrails.ai/docs)
+- [Getting started](https://adrails.ai/docs/tracking/setup)
+- [API reference](https://adrails.ai/docs)
+- [Pricing](https://adrails.ai/pricing)
+- [Support](https://adrails.ai/contact)
+- [Changelog](https://adrails.ai/changelog)
+- [Blog](https://adrails.ai/blog)
+- [Security](https://adrails.ai/security)
+- [Terms of service](https://adrails.ai/terms)
+- [Privacy policy](https://adrails.ai/privacy)
+- [GitHub](https://github.com/devthomy/adrails-mcp)
+
+## API Evangelist rating
+
+**Kin Score 45.1** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 63.7 |
+
+**Agent readiness 32.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adrails-ai/](https://apis.io/providers/adrails-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Adrails: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/adrails-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
